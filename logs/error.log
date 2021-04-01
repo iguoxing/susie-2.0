@@ -13,3 +13,52 @@
   code: 'ENOENT',
   path: '/Users/yuanzhijia/Desktop/yd-book-four/dist/components/banner/banner.html'
 }
+[2021-03-31T07:50:04.307] [ERROR] globalError - ReferenceError: Readable is not defined
+    at /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:44:30
+    at new Promise (<anonymous>)
+    at createSsrStreamPromise (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:43:16)
+    at actionHome (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:57:13)
+    at async /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/middlewares/ErrorHandler.js:12:9
+    at async serve (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/node_modules/koa-static/index.js:53:9)
+[2021-03-31T07:51:45.048] [ERROR] globalError - ReferenceError: Readable is not defined
+    at /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:44:30
+    at new Promise (<anonymous>)
+    at createSsrStreamPromise (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:43:16)
+    at actionHome (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:57:13)
+    at async /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/middlewares/ErrorHandler.js:12:9
+    at async serve (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/node_modules/koa-static/index.js:53:9)
+[2021-03-31T07:51:49.014] [ERROR] globalError - ReferenceError: Readable is not defined
+    at /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:44:30
+    at new Promise (<anonymous>)
+    at createSsrStreamPromise (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:43:16)
+    at actionHome (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:57:13)
+    at async /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/middlewares/ErrorHandler.js:12:9
+    at async serve (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/node_modules/koa-static/index.js:53:9)
+[2021-03-31T07:52:30.775] [ERROR] globalError - ReferenceError: Readable is not defined
+    at /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:44:30
+    at new Promise (<anonymous>)
+    at createSsrStreamPromise (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:43:16)
+    at actionHome (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:57:13)
+    at async /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/middlewares/ErrorHandler.js:12:9
+    at async serve (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/node_modules/koa-static/index.js:53:9)
+[2021-03-31T07:52:38.505] [ERROR] globalError - ReferenceError: Readable is not defined
+    at /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:44:30
+    at new Promise (<anonymous>)
+    at createSsrStreamPromise (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:43:16)
+    at actionHome (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:57:13)
+    at async /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/middlewares/ErrorHandler.js:12:9
+    at async serve (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/node_modules/koa-static/index.js:53:9)
+[2021-03-31T07:52:42.669] [ERROR] globalError - ReferenceError: Readable is not defined
+    at /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:44:30
+    at new Promise (<anonymous>)
+    at createSsrStreamPromise (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:43:16)
+    at actionHome (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:57:13)
+    at async /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/middlewares/ErrorHandler.js:12:9
+    at async serve (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/node_modules/koa-static/index.js:53:9)
+[2021-03-31T07:53:02.940] [ERROR] globalError - ReferenceError: Readable is not defined
+    at /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:44:30
+    at new Promise (<anonymous>)
+    at createSsrStreamPromise (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:43:16)
+    at actionHome (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/controllers/IndexController.js:57:13)
+    at async /Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/dist/middlewares/ErrorHandler.js:12:9
+    at async serve (/Users/zhaoguoxing/Documents/code/shuqi/susie-pjax/node_modules/koa-static/index.js:53:9)

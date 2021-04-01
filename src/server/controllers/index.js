@@ -9,7 +9,8 @@ const booksController = new BooksController();
 const apiController = new ApiController();
 
 function initController(app) {
-    router.get('/', indexController.actionIndex);
+    router.get('/', indexController.actionHome);
+    // router.get('/', indexController.actionIndex);
     router.get('/api/getBooksList', apiController.actionBooksList);
     router.get('/books/list', booksController.actionBooksList);
     router.get('/books/create', booksController.actionBooksCreate);
